@@ -1,7 +1,8 @@
-# FLEX for Xamarin
+# FLEX
+[![CocoaPods](https://img.shields.io/cocoapods/v/FLEX.svg)](http://cocoapods.org/?q=FLEX)
  [![CocoaPods](https://img.shields.io/cocoapods/l/FLEX.svg)](https://github.com/Flipboard/FLEX/blob/master/LICENSE)
  [![CocoaPods](https://img.shields.io/cocoapods/p/FLEX.svg)]()
- [![Twitter: @adlair](https://img.shields.io/badge/contact-@adlair-blue.svg?style=flat)](https://twitter.com/adlair)
+ [![Twitter: @ryanolsonk](https://img.shields.io/badge/contact-@ryanolsonk-blue.svg?style=flat)](https://twitter.com/ryanolsonk)
  [![Build Status](https://travis-ci.org/Flipboard/FLEX.svg?branch=master)](https://travis-ci.org/Flipboard/FLEX)
  [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
@@ -9,18 +10,6 @@ FLEX (Flipboard Explorer) is a set of in-app debugging and exploration tools for
 
 ![View Hierarchy Exploration](http://engineering.flipboard.com/assets/flex/basic-view-exploration.gif)
 
-
-##Building the project
-
-For fast build, you only needs to run:
-
-<code>computer:session user$ make</code>
-
-If you get any problems trying to run it, you can clean the sources:
-
-<code> computer:session user$ make clean</code>
-
-After that, you can run <code>make</code> again. :)
 
 ## Give Yourself Debugging Superpowers
 - Inspect and modify views in the hierarchy.
