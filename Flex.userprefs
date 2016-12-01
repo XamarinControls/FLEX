@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{4ECF87D0-2353-440A-9190-A99E6FEC8C2E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sample/ViewController.cs">
+    <Files>
+      <File FileName="Sample/ViewController.cs" Line="18" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Flex" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../ess-mobiledispatcher/MobileDispatcher/ESS.MobileDispatcher.UI.iOS/Views/InitialView.cs" line="58" offsetX="726" offsetY="855" expression="dataSource" liveUpdate="False" />
+    <Watch file="../ess-mobiledispatcher/MobileDispatcher/ESS.MobileDispatcher.UI.iOS/Cells/TicketViewCell.cs" line="185" offsetX="488" offsetY="2760" expression="this.Superview.Superview" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Sample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DCE03D0D-1B0A-4E0F-A266-287CDE3C3C1C" />
+</Properties>
